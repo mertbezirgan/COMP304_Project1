@@ -1,0 +1,1 @@
+47 19 * * * XDG_RUNTIME_DIR=/run/user/$(id -u) DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/mert/Desktop/ai.mp3

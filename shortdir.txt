@@ -1,0 +1,2 @@
+a /home/mert/Desktop/Comp304/Projects/Project1
+projects /home/mert/Desktop/Comp304/Projects
